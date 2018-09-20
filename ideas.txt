@@ -1,0 +1,25 @@
+API SITE IDEAS:
+=Meetting Runner === Proctor Planner======
+
+
+
+=======Card Games======================
+- DECK OF CARDS API -- Program a card game (blackjack, speed, or war.)
+
+
+===HEALTH WORKOUT SITE==========
+  myWorkoutmyLife  <=== This already exists.
+
+Keep your workouts unique!
+Keep your mealplan fresh!
+myWorkoutmyLife is the ONLY site where you can generate NEW customized workout.
+Every time you visit, you'll get a new never-before-done workout and mealplan.
+
+Quick link:
+Generate today's workout:
+{}
+More Options?
+================================
+- with wger.de < WORKOUT MANAGER
+Make randomized custom workout plans depending on equipment available and muscle group.
+

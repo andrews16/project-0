@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The Charismatic Chairman</title>
+    <script src="testing.js"></script>
+</head>
+<body>
+        Welcome to the Charismatic Chairman!
+        If you're charismatic enough to say you're doing the CHA CHA, lets hear it!!
+        And if you're not quite there yet, this site is available to get you ready for your meeting.
+
+        <div id="random-icebreaker">
+            Random Icebreaker Question? 
+            https://icebreakerideas.com/icebreaker-questions-biggest-list-ever/
+
+        </div>
+        <div id="lunch">
+                What's for lunch?
+            <div id="random-lunch-type">
+                Randomly generated idea
+            </div>
+            <div id="lunch-advanced">
+                Advanced food finder (OpenDining, eatstreet**)
+            </div>
+        </div>
+    <div id="meeting-setup">  <!-- Be able to hide this! -->
+        Color Options 
+        Title of meeting <input type="text">
+
+
+        <div id="links-linker">
+            <p>Meeting Links :</p>
+            Use URLs for online content or local file paths for meeting files that can be opened in a web browser.
+            (Websites, images, pdfs, and .txt files)
+            <br>
+            Link URL:
+            <input type="text" id="link-location"><br>
+            Convenience Label:
+            <input type="text" id="link-title"><br>
+            <button onclick="newMeetingLink()">Add Link</button> <br>
+            <div id="meeting-links">
+            </div>
+        </div>
+        
+        <div id="discussion-creator">
+            <p> Discussion Points:</p>
+
+            <div class="discussion-point-inputer">
+                Topic <input type="text" class="main-discussion-point">
+                Notes <input type="text" class="main-discussion-notes">
+                <div class="create-sub-topic">
+                    + Create Sub-Topic //CREATES SUB-TOPIC AND NOTES AND REMOVER (alert confirm delete if there is stuff in it)
+                </div>
+
+            </div>
+
+            <div class="create-discussion-point">
+                + New discussion point
+                // + ABLE TO REMOVE ADDITIONAL DISCUSSION POINT (alert confirm delete if there is stuff in it)
+            </div>
+
+        </div>
+        IF YOU SAY "Hide until meeting start (You'll still be able to edit your meeting)" the clock will show up with "start meeting" below.
+        Upon clicking "start meeting" the cleaner version will appear.
+    </div>
+
+    <div id="live-meeting">
+        Organization -- Date     --   Time
+        Meeting Title  < make it so when the user types this, it doesn't appear to be in an INPUT box
+        Click the TITLE label to go to HIDDEN input. with CSS a link "BLINKS" in the place where the TITLE will show up
+        (similar trick for all)
+
+        Notes : 
+        Big Textbox. with lines
+        ====DISCUSSION MAIN TOPIC===
+        ---SUBTOPIC
+        ====TOPIC 2===
+    </div>
+    </div> 
+
+    <footer>
+    Resources:
+    Filetype Icons from    https://icons8.com/icon/set/filetype/windows
+    </footer>
+</body>
+</html>
