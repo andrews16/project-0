@@ -1,0 +1,38 @@
+Project Propolas
+
+Proctor's Pal
+Set up and run your meeting all in one place.
+
+[Generate icebreaker question]
+[Generate Lunch Presentation food type]
+
+- - - Organize your Meeting - - -
+Title
+location
+date, time
+
+- Files to include -
+[Add links to files]
+--Choose where on the page to put them]
+	Topbar, left bar, right bar, bototom bar, or under title
+
+- Meeting Agenda -
+
+
+- - - Take notes on the fly - - 
+[General Notes]
+
+[Create Topic] (+)
+[notes]
+
+[Create subtopic] (+)
+
+{Send to Live editor} 
+-- Generates single textpad that is editable with notepad-like text formatting
+{e-mail (or save) all}
+
+
+- - - Create Meeting Agenda from Scratch - - 
+
+Goes to textbox, all fields empty
+{e-mail (or save) all}
